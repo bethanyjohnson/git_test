@@ -1,0 +1,1 @@
+This is Bethany's first git project!
